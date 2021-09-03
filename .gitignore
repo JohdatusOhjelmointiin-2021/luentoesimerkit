@@ -1,0 +1,17 @@
+esim1/build/
+esim1/*.user
+
+esim2/build/
+esim2/*.user
+
+esim3/build/
+esim3/*.user
+
+esim4/build/
+esim4/*.user
+
+esim5/build/
+esim5/*.user
+
+esim6/build/
+esim6/*.user
