@@ -15,3 +15,15 @@ esim5/*.user
 
 esim6/build/
 esim6/*.user
+
+esim_2_1/build/
+esim_2_1/*.user
+
+esim_2_2/build/
+esim_2_2/*.user
+
+esim_2_3/build/
+esim_2_3/*.user
+
+esim_2_4/build/
+esim_2_4/*.user
