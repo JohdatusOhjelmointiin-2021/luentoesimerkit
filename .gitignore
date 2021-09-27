@@ -78,7 +78,18 @@ esim_6_3/*.user
 esim_6_4/build/
 esim_6_4/*.user
 
+vk_4_5/build/
+vk_4_5/*.user
 vk_4_7/build/
 vk_4_7/*.user
 vk_4_8/build/
 vk_4_8/*.user
+
+esim_7_1/build/
+esim_7_1/*.user
+esim_7_2/build/
+esim_7_2/*.user
+esim_7_3/build/
+esim_7_3/*.user
+esim_7_4/build/
+esim_7_4/*.user
