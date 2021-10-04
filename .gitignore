@@ -93,3 +93,12 @@ esim_7_3/build/
 esim_7_3/*.user
 esim_7_4/build/
 esim_7_4/*.user
+
+esim_8_1/build/
+esim_8_1/*.user
+esim_8_2/build/
+esim_8_2/*.user
+esim_8_3/build/
+esim_8_3/*.user
+esim_8_4/build/
+esim_8_4/*.user
