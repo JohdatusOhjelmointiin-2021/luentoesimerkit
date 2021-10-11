@@ -107,3 +107,12 @@ vk_5_2/build/
 vk_5_2/*.user
 vk_5_4/build/
 vk_5_4/*.user
+
+kertaus_1/build/
+kertaus_1/*.user
+kertaus_2/build/
+kertaus_2/*.user
+kertaus_3/build/
+kertaus_3/*.user
+kertaus_3_3/build/
+kertaus_3_3/*.user
