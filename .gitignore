@@ -102,3 +102,8 @@ esim_8_3/build/
 esim_8_3/*.user
 esim_8_4/build/
 esim_8_4/*.user
+
+vk_5_2/build/
+vk_5_2/*.user
+vk_5_4/build/
+vk_5_4/*.user
